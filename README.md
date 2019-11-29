@@ -1,3 +1,10 @@
+open -a Simulator
+
+flutter run
+
+resource fork, Finder information, or similar detritus not allowed
+如果报错：打开终端，输入“xattr -rc 你的项目路径”
+
 # startup_namer
 
 A new Flutter project.
